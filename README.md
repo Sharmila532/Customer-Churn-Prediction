@@ -22,12 +22,7 @@ Python (Pandas, Scikit-learn), Seaborn/Matplotlib, Google Colab, Power BI, DAX
 5. **Evaluation** — classification report, ROC-AUC, confusion matrix, feature importance
 6. **Dashboard** — exported predictions to Power BI for a churn-risk dashboard with
    risk bands, a churn gauge, and a high-risk customer table (see build steps above)
-
-## Model Performance
-*(fill in your actual results)*
-- ROC-AUC: X.XX
-- Precision/Recall: see classification report in notebook
-
+   
 ## Key Findings
 - e.g. Month-to-month contracts show significantly higher churn than annual contracts
 - Tenure is one of the strongest negative predictors of churn
